@@ -1,0 +1,14 @@
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\bin\Debug\net6.0\CajeroATM.exe
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\bin\Debug\net6.0\CajeroATM.deps.json
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\bin\Debug\net6.0\CajeroATM.runtimeconfig.json
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\bin\Debug\net6.0\CajeroATM.dll
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\bin\Debug\net6.0\CajeroATM.pdb
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.AssemblyInfoInputs.cache
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.AssemblyInfo.cs
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.dll
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\refint\CajeroATM.dll
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.pdb
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\CajeroATM.genruntimeconfig.cache
+C:\Users\Kevin Féliz\source\repos\CajeroATM\CajeroATM\obj\Debug\net6.0\ref\CajeroATM.dll
